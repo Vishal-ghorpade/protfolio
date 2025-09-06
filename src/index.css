@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body{
+    font-family: "outfit", sans-serif;
+    background-color: #0a192f;
+    color:#ccd6f6;
+    scroll-behavior: smooth;
+}
